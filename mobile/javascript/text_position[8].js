@@ -1,0 +1,1 @@
+﻿positionForPages[8]={page:8,positions:[{word:"WOMEN’S",left:0.359151,top:0.913704,width:0.100173,height:0.046753},{word:"HISTORY",left:0.468979,top:0.913704,width:0.086361,height:0.046753},{word:"MONTH",left:0.564787,top:0.913704,width:0.077599,height:0.046753}]};

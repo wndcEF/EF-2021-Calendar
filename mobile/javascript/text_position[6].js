@@ -1,0 +1,1 @@
+﻿positionForPages[6]={page:6,positions:[{word:"BLACK",left:0.365435,top:0.913704,width:0.066712,height:0.046753},{word:"HISTORY",left:0.453128,top:0.913704,width:0.086361,height:0.046753},{word:"MONTH",left:0.560735,top:0.913704,width:0.077599,height:0.046753}]};
